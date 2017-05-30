@@ -1,3 +1,9 @@
+'''
+Author: Tafseer Ahmed
+Date: 5/30/2017
+Language: Python 3.6.0 :: Anaconda 4.3.1 (64-bit)
+'''
+
 def kar(x, y):
     nx=len(str(x))
     ny=len(str(y))
